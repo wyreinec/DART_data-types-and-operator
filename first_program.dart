@@ -30,8 +30,7 @@ void main() {
   // print(flybyObjects[0]);
   // print('nama planet pertama: $flybyObjects[0]');
   // //untuk menampilkan indeks yang diinginkan pada array
-  // print(
-  //     'nama planet pertama: ${flybyObjects[0]}'); //nama planet pertama: Jupiter
+  // print('nama planet pertama: ${flybyObjects[0]}'); //nama planet pertama: Jupiter
   // print(image);
   print('Status Login : $isLoggedIn');
 }
