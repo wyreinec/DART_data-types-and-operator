@@ -18,15 +18,15 @@ void main() {
   int l = 10;
   int t = 8;
 
-  //keliling persegi
+  //menghitung keliling persegi
   int kelilingPersegi = 4 * s;
   print(kelilingPersegi);
 
-  //luas lingkaran
+  //menghitung luas lingkaran
   double luasLingkaran = phi * pow(r, 2);
   print(luasLingkaran);
 
-  //volume balok
+  //menghitung volume balok
   int volumeBalok = p * l * t;
   print(volumeBalok);
 }
